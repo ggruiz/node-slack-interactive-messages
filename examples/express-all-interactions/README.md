@@ -58,4 +58,4 @@ The rest of the instructions will ask you either to use an ngrok URL or a Glitch
 The slash command can be triggered in three ways:
 *  `/interactive-example button`: Creates a message with message butons. When you click one, the message updates.
 *  `/interactive-example menu`: Creates a message with a dynamic menu. When you begin typing, the options are narrowed down. Selecting an option updates the message.
-*  `/interactive-exmaple dialog`: Creates a dialog with a user menu input and text input. Sends a confirmation message after submission.
+*  `/interactive-example dialog`: Creates a dialog with a user menu input and text input. Sends a confirmation message after submission.
